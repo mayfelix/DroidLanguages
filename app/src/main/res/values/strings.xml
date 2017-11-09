@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">DroidLanguages</string>
+
+    <string name="alert_title">Languages</string>
+
+    <string name="french_label">French</string>
+    <string name="english_label">English</string>
+
+    <string name="hello_android_en">Welcome to Android Oreo.</string>
+    <string name="hello_android_fr">Bienvenue a Android Oreo.</string>
+
+</resources>
